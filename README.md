@@ -37,9 +37,9 @@ The real goated goal (Goated GoalV2) solves all of these problems with thoughtfu
 
 ---
 
-##Engineering & Design
+## Engineering & Design
 
-###3D‑Printed Corners
+### 3D‑Printed Corners
 The most important parts of the design are the custom corner brackets, which connect the horizontal, vertical, and diagonal poles. These parts taught me a lot about CAD tolerances and how real-world parts actually fit together.
 
 | CAD Model |
@@ -50,21 +50,25 @@ Originally, the right corner had one oversized hole for a telescoping pole. Now 
 
 | Before 1 (Left pole)|
 |-----------|
+![Screenshot](Screenshot%202025-12-14%20125309.png)
 
 | Before 2 (Left pole)|
 |-----------|
+![Screenshot](Screenshot%202026-01-02%20175314.png)
 
 | Before 3 (Left pole, I know there is a lot of versions)|
 |-----------|
+![Screenshot](Screenshot%202026-06-19%20211623.png)
 
 | After (Left pole)|
 |-----------|
-
+![Screenshot](Screenshot%202026-07-18%20222013.png)
 
 The left corner uses precise diagonal measurements to prevent collapsing. In earlier versions, I tried having the corner “float” in the air — which I quickly learned was not a great idea. Now both corners sit solidly and support the entire frame.
 
 | Additional Parts|
 |-----------|
+![Screenshot](Screenshot%202026-07-18%20221941.png)
 
 
 These new parts came from me finding some old tent poles in my garage. They help cut down costs and make the goal stronger. The 3‑hole bracket supports the top of the goal, while the triangular bracket reinforces the middle for extra stability.
