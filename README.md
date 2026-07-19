@@ -11,7 +11,7 @@ This project focuses on **mechanical engineering, CADing (yes, I’m still calli
 
 ---
 
-##Problem with other real-world goals
+## Problem with other real-world goals
 Most affordable soccer goals are:
 - Too small for realistic shooting practice
 - Fixed in size and not adjustable
