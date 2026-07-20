@@ -1,13 +1,13 @@
 # The-real-goated-goal
 My final attempt of making a portable 12 by 6ft goal.
-Goated-goalV2
+Goated-goalV2 
 🐐 Shrihan’s Goated-Goal — An Adjustable Training Soccer Goal that can be used whenever!
 Inspo: [https://www.youtube.com/watch?v=eOJQuOstX0s](https://www.youtube.com/watch?v=S5OUoixzOfU)
 
 Overview
 **The real goated goal** is my final (and honestly best) attempt at building a fully adjustable soccer training goal. It expands up to **12 ft wide and 6 ft tall**, giving me a realistic shooting target without spending a ton of money. Unlike fixed-size goals, Goated Goal can be changed to different widths, which helps a lot when I’m practicing in different spaces.
 
-This project focuses on **mechanical engineering, CADing (yes, I’m still calling it that), and prototyping**. Instead of electronics, the innovation is in the adjustable structure, custom 3D‑printed parts, and off‑the‑shelf poles. After many redesigns, I finally made several new printed parts that make the whole thing stronger and easier to assemble.
+This project focuses on **mechanical engineering, CADing (yes, I’m still calling it that), and prototyping**. Instead of electronics, the innovation is in the adjustable structure, custom 3D‑printed parts, and off‑the‑shelf poles. After many redesigns, I finally made several new printed parts that make the whole thing stronger and easier to assemble. (CAD FOR BARS IS NOT NEEDED)
 
 ---
 
