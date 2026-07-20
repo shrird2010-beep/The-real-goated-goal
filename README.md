@@ -77,9 +77,12 @@ The left corner uses precise diagonal measurements to prevent collapsing. In ear
 These new parts came from me finding some old tent poles in my garage. They help cut down costs and make the goal stronger. This will glued to the top of the fiber glass pole and will aid in connecting the goal together.
 
 ## Predicted Model
+![Screenshot](Screenshot%202026-07-20%20155448.png)
 Here is my final predicted model. I’ll be using weights to keep the goal from sliding.
 To see the full assembly, check the tab above.
 (I also added CADs for the bars I used — those don’t matter much because I’m buying some and already have the rest.)
+I am using the pipes from this goal:
+![Screenshot](Screenshot%202026-07-20%20180247.png)
 
 ---
 
