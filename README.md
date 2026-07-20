@@ -84,22 +84,27 @@ To see the full assembly, check the tab above.
 ---
 
 ## Bill of Materials (BOM)
-Item	Cost
-
+| Item | Cost |
+|------|------|
+| Football Replacement Goal Net (12×6 ft) (the other ones that are cheaper are bad quality and are made of cotton)| $28.06 |
+| money for shipping (the parts are pretty big and take the size of a soccer ball)| $15.00|
+| Ubolts (I will buy) x4 | $0 |
+| **Total** | **$43.06** |
 
 
 All materials were chosen for strength, adjustability, and cost efficiency.
 
-Links:  
+Links: https://www.amazon.com/Franklin-Sports-Soccer-Replacement-Straps/dp/B01MG7Z9IA/ref=sr_1_7?crid=3KLV3PPTN04OM&dib=eyJ2IjoiMSJ9.crzvdFWcFj3fFOQBLjdUyR7A4v6rIhiAbmWTFrXvyXUi2G2V1Z-EeEsJ07XbzxWE6bX08798C1Y_CGbZEXOyltdVgr1ezEsMUv7tb6UmjUDqlsqR5AaZerpwVkZ9EJnYZBIpSSzv_Iyj4KsR8KWb56Jy5u28ueyxy1k_kULTtwdzr-X2LLOpriBSxLP59_nYLFUKUHKhbgb4JKh7C7djQrqH2hXfsAHyIlLUzr_tdofBR4Ongi5Tsd-FqLW-ORUDdlkXo9_eRWbi96ZCWvV-jSDntjHaHUV4B9YWDEdJysc.a6s6m1mjD0X0LhX71XCtqs_i6qzXq-nOafmkmLxMkK4&dib_tag=se&keywords=12%2Bby%2B6ft%2Bgoal%2Breplacement%2Bnet&qid=1784579023&sprefix=12%2Bby%2B6ft%2Bgoal%2Breplacement%2Bnet%2Caps%2C151&sr=8-7&th=1
 
 ## Assembly Summary
-1. Insert telescoping poles into the 3D-printed corner brackets
-2. Attach diagonal support poles to prevent collapse
-3. Extend poles to desired width
-4. Connect the goal to the corners
-5. Secure the net using the straps
-6. Adjust sizing based on training needs
-7. When your done, just pack it up in any backpack you have!
+1. Insert poles into the 3D-printed corner brackets
+2. Attach diagonal support poles
+3. Bolt together the boltplates
+4. Insert the goal inside
+5. bolt the poles together
+6. Secure the net using the straps 
+7. Adjust sizing based on training needs
+8. When your done, just pack it up have!
 
 
 ## What I Learned
@@ -111,7 +116,7 @@ Links:
 ---
 
 ## If I were to do it again
--Increase corner wall thickness
+- Increase corner wall thickness
 - Add optional anchors
 - Test alternative materials for durability
 
