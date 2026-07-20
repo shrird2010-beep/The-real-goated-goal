@@ -89,10 +89,10 @@ I am using the pipes from this goal:
 ## Bill of Materials (BOM)
 | Item | Cost |
 |------|------|
-| Football Replacement Goal Net (12×6 ft) (the other ones that are cheaper are bad quality and are made of cotton)| $28.06 |
+| Football Replacement Goal Net (12×6 ft) (the other ones that are cheaper are bad quality and are made of cotton)| $24.41 |
 | money for shipping (the parts are pretty big and take the size of a soccer ball)| $15.00|
 | Ubolts (I will buy) x4 | $0 |
-| **Total** | **$43.06** |
+| **Total** | **$39.41** |
 
 
 All materials were chosen for strength, adjustability, and cost efficiency.
