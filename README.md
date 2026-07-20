@@ -44,9 +44,12 @@ The most important parts of the design are the custom corner brackets, which con
 
 | CAD Model |
 |-----------|
+![Screenshot](Screenshot%202026-07-20%20151749.png)
 
 
-Originally, the right corner had one oversized hole for a telescoping pole. Now both corners match, and each one holds four poles instead of three, which makes the structure way more stable.
+Originally, the right corner had one oversized hole for a telescoping pole. Now the corners hold a fiberglass pole that bends into shape. It puts way less pressure than before. Now you may ask how this corner will be used? It will be used like this:
+![Screenshot](Screenshot%202026-07-20%20151923.png)
+
 
 | Before 1 (Left pole)|
 |-----------|
@@ -71,7 +74,7 @@ The left corner uses precise diagonal measurements to prevent collapsing. In ear
 ![Screenshot](Screenshot%202026-07-18%20221941.png)
 
 
-These new parts came from me finding some old tent poles in my garage. They help cut down costs and make the goal stronger. The 3‑hole bracket supports the top of the goal, while the triangular bracket reinforces the middle for extra stability.
+These new parts came from me finding some old tent poles in my garage. They help cut down costs and make the goal stronger. This will glued to the top of the fiber glass pole and will aid in connecting the goal together.
 
 ## Predicted Model
 Here is my final predicted model. I’ll be using weights to keep the goal from sliding.
