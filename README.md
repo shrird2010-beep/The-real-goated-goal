@@ -2,7 +2,7 @@
 My final attempt of making a portable 12 by 6ft goal.
 Goated-goalV2 
 🐐 Shrihan’s Goated-Goal — An Adjustable Training Soccer Goal that can be used whenever! Onshape link:
-https://cad.onshape.com/documents/a943bb5d5e24561938ac5381/w/87b94c6f05a7c0b34a0f8bf7/e/cfc680d10addf19b23922cc6?renderMode=0&uiState=6a5ea557f70c01cc0b2d31a5
+https://cad.onshape.com/documents/a943bb5d5e24561938ac5381/w/87b94c6f05a7c0b34a0f8bf7/e/cfc680d10addf19b23922cc6?renderMode=0&uiState=6a5ea557f70c01cc0b2d31a5   (copy and paste link)
 Inspo: [https://www.youtube.com/watch?v=eOJQuOstX0s](https://www.youtube.com/watch?v=S5OUoixzOfU)
 
 Overview
